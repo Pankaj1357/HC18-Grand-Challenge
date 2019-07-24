@@ -1,2 +1,2 @@
 # HC18-Grand-Challenge
-U-net architecture was used to obatained the required segentation mask.
+U-net architecture was used to obatained the required segmentation mask.
