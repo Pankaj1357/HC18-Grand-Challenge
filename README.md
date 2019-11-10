@@ -1,4 +1,5 @@
 # HC18-Grand-Challenge
+Automatic Measurement of Fetal Head in Ultrasound Images.
 U-net architecture was used to obatained the required segmentation mask.
 
 Following is the link to the challenge:-
